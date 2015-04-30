@@ -1,0 +1,48 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 640  (ID=0xfc1)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\SurvivalShooter\SurvivalShooter2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\SurvivalShooter\SurvivalShooter2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\SurvivalShooter\SurvivalShooter2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\SurvivalShooter\SurvivalShooter2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\SurvivalShooter\SurvivalShooter2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\SurvivalShooter\SurvivalShooter2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Public\Documents\Unity Projects\SurvivalShooter\SurvivalShooter2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\SurvivalShooter\SurvivalShooter2_Data\Managed\System.dll (this message is harmless)
+Shader 'Custom/Rim Lit Bumped Specular': fallback shader 'Specular' not found
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 244 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.782884 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 645.
+Total: 0.337701 ms (FindLiveObjects: 0.052841 ms CreateObjectMapping: 0.024140 ms MarkObjects: 0.237651 ms  DeleteObjects: 0.022799 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.052764 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 645.
+Total: 0.474767 ms (FindLiveObjects: 0.081005 ms CreateObjectMapping: 0.066789 ms MarkObjects: 0.304977 ms  DeleteObjects: 0.020385 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.432884 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 645.
+Total: 0.327777 ms (FindLiveObjects: 0.065448 ms CreateObjectMapping: 0.024408 ms MarkObjects: 0.216998 ms  DeleteObjects: 0.019580 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.317813 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 645.
+Total: 0.461623 ms (FindLiveObjects: 0.077518 ms CreateObjectMapping: 0.065448 ms MarkObjects: 0.296394 ms  DeleteObjects: 0.020385 ms)
+

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9b9d14572410594cb85d40eedfb150c
+timeCreated: 1430403528
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - deathClip: {instanceID: 0}
+  - chocoBar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
